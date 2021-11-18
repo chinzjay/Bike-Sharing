@@ -6,33 +6,28 @@ Using Tableau, the following visualisation was performed
 
 ![total_riders](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/total_riders.PNG)
 |:--:|
-|Fig 1. District Summary before changing the scores|
+|Fig 1. Total riders and categorization by gender|
 
 ![trip_duration](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trip_duration.PNG)
 |:--:|
-|Fig 1. District Summary before changing the scores|
+|Fig 2. Length of time that the bikes are checked out for all riders|
 
 ![trip_duration_gender](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trip_duration_gender.PNG)
 |:--:|
-|Fig 1. District Summary before changing the scores|
+|Fig 3. Length of time that the bikes are checked out for each gender|
 
 ![trips_weekday](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trips_weekday.PNG)
 |:--:|
-|Fig 1. District Summary before changing the scores|
+|Fig 4. Number of bike trips by weekday for each hour of the day|
 
 ![trips_weekday_gender](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trips_weekday_gender.PNG)
 |:--:|
-|Fig 1. District Summary before changing the scores|
+|Fig 5. Number of bike trips by gender for each hour of each day of the week|
 
 ![usertrip_weekday_gender](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/usertrip_weekday_gender.PNG)
 |:--:|
-|Fig 1. District Summary before changing the scores|
+|Fig 6. Number of bike trips by gender for each day of the week by each Usertype|
 
-
-
-describe the results of each visualization underneath the image
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization 
 ## Summary
 It is evident from the visualizations that there are more male riders than others. We can also infer that Thursdays are the busiest
 The following visualizations can be performed for a detailed analysis.
