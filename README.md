@@ -4,16 +4,29 @@ The purpose of this project is to create a dashboard with the bike trip analysis
 ## Results
 Using Tableau, the following visualisation was performed  
 
-![district_summ_bfr](https://github.com/chinzjay/School_District_Analysis/blob/main/district_summ_bfr.PNG)
+![total_riders](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/total_riders.PNG)
 |:--:|
 |Fig 1. District Summary before changing the scores|
 
-https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/total_riders.PNG
-https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trip_duration.PNG
-https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trip_duration_gender.PNG
-https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trips_weekday.PNG
-https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trips_weekday_gender.PNG
-https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/usertrip_weekday_gender.PNG
+![trip_duration](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trip_duration.PNG)
+|:--:|
+|Fig 1. District Summary before changing the scores|
+
+![trip_duration_gender](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trip_duration_gender.PNG)
+|:--:|
+|Fig 1. District Summary before changing the scores|
+
+![trips_weekday](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trips_weekday.PNG)
+|:--:|
+|Fig 1. District Summary before changing the scores|
+
+![trips_weekday_gender](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/trips_weekday_gender.PNG)
+|:--:|
+|Fig 1. District Summary before changing the scores|
+
+![usertrip_weekday_gender](https://github.com/chinzjay/Bike-Sharing/blob/main/Resources/usertrip_weekday_gender.PNG)
+|:--:|
+|Fig 1. District Summary before changing the scores|
 
 
 
